@@ -1,0 +1,221 @@
+
+[
+  {
+      "id": 1,
+      "title": "Cozy Cabin in the Woods",
+      "description": "Escape to this charming cabin nestled in the heart of nature.",
+      "price": 150,
+      "location": "Big Bear Lake, CA",
+      "amenities": ["WiFi", "Kitchen", "Fireplace"],
+      "image": "src/assets/property-images/cabin1.jpg"
+  },
+  {
+      "id": 2,
+      "title": "Modern Apartment with City Views",
+      "description": "Enjoy stunning views from this stylish apartment in the city center.",
+      "price": 220,
+      "location": "Downtown Los Angeles, CA",
+      "amenities": ["WiFi", "Kitchen", "Balcony"],
+      "image": "src/assets/property-images/london1.jpg"
+  },
+  {
+      "id": 3,
+      "title": "Beachfront Bungalow",
+      "description": "Relax and unwind in this beachfront bungalow with direct ocean access.",
+      "price": 300,
+      "location": "Malibu, CA",
+      "amenities": ["WiFi", "Kitchen", "Private Beach"],
+      "image": "src/assets/property-images/cabin1.jpg"
+  },
+  {
+      "id": 4,
+      "title": "City Loft with Panoramic Views",
+      "description": "Experience urban luxury in this spacious loft with breathtaking city views.",
+      "price": 400,
+      "location": "London, UK",
+      "amenities": ["WiFi", "Kitchen", "Gym"],
+      "image": "src/assets/property-images/delhi1.jpg"
+  },
+  {
+      "id": 5,
+      "title": "Quaint Townhouse in London",
+      "description": "Discover the charm of London in this cozy townhouse located in a historic neighborhood.",
+      "price": 300,
+      "location": "London, UK",
+      "amenities": ["WiFi", "Kitchen", "Courtyard"],
+      "image": "src/assets/property-images/delhi3.jpg"
+  },
+  {
+      "id": 6,
+      "title": "Luxury Penthouse in Central London",
+      "description": "Indulge in opulence in this exclusive penthouse boasting unparalleled views of the city.",
+      "price": 600,
+      "location": "London, UK",
+      "amenities": ["WiFi", "Kitchen", "Jacuzzi"],
+      "image": "src/assets/property-images/property1.jpg"
+  },
+  {
+      "id": 7,
+      "title": "Chic Apartment in New York City",
+      "description": "Live like a local in this stylish apartment located in the heart of Manhattan.",
+      "price": 350,
+      "location": "New York, NY",
+      "amenities": ["WiFi", "Kitchen", "Roof Deck"],
+      "image": "src/assets/property-images/nyc1.jpg"
+  },
+  {
+      "id": 8,
+      "title": "Sleek Studio near Central Park",
+      "description": "Enjoy the convenience of this modern studio just steps away from Central Park.",
+      "price": 250,
+      "location": "New York, NY",
+      "amenities": ["WiFi", "Kitchen", "Fitness Center"],
+      "image": "src/assets/property-images/mumbai1.jpg"
+  },
+  {
+      "id": 9,
+      "title": "Urban Oasis in Brooklyn",
+      "description": "Escape the hustle and bustle of the city in this serene oasis located in Brooklyn.",
+      "price": 180,
+      "location": "New York, NY",
+      "amenities": ["WiFi", "Kitchen", "Garden"],
+      "image": "src/assets/property-images/mumbai3.jpg"
+  },
+  {
+      "id": 10,
+      "title": "Elegant Apartment in Paris",
+      "description": "Experience Parisian charm in this elegant apartment located in the heart of the city.",
+      "price": 280,
+      "location": "Paris, France",
+      "amenities": ["WiFi", "Kitchen", "Bike Rental"],
+      "image": "src/assets/property-images/london3.jpg"
+  },
+  {
+      "id": 11,
+      "title": "Charming Studio near the Louvre",
+      "description": "Immerse yourself in art and culture in this charming studio located near the Louvre.",
+      "price": 200,
+      "location": "Paris, France",
+      "amenities": ["WiFi", "Kitchen", "Library"],
+      "image": "src/assets/property-images/london1.jpg"
+  },
+  {
+      "id": 12,
+      "title": "Riverside Retreat in Paris",
+      "description": "Enjoy tranquil river views in this peaceful retreat nestled along the Seine.",
+      "price": 320,
+      "location": "Paris, France",
+      "amenities": ["WiFi", "Kitchen", "River Access"],
+      "image": "src/assets/property-images/cabin1.jpg"
+  },
+  {
+      "id": 13,
+      "title": "Cosy Apartment in Delhi",
+      "description": "Experience the warmth of Delhi in this cosy apartment located in a vibrant neighborhood.",
+      "price": 120,
+      "location": "Delhi, India",
+      "amenities": ["WiFi", "Kitchen", "Traditional Decor"],
+      "image": "src/assets/property-images/delhi1.jpg"
+  },
+  {
+      "id": 14,
+      "title": "Tranquil Retreat in Delhi",
+      "description": "Escape the chaos of the city in this tranquil retreat surrounded by lush greenery.",
+      "price": 180,
+      "location": "Delhi, India",
+      "amenities": ["WiFi", "Kitchen", "Garden"],
+      "image": "src/assets/property-images/delhi3.jpg"
+  },
+  {
+      "id": 15,
+      "title": "Luxury Villa in Mumbai",
+      "description": "Indulge in luxury in this spacious villa located in the heart of Mumbai.",
+      "price": 500,
+      "location": "Mumbai, India",
+      "amenities": ["WiFi", "Kitchen", "Private Pool"],
+      "image": "src/assets/property-images/mumbai3.jpg"
+  },
+  {
+      "id": 16,
+      "title": "Seaside Cottage in Mumbai",
+      "description": "Experience seaside living in this charming cottage overlooking the Arabian Sea.",
+      "price": 250,
+      "location": "Mumbai, India",
+      "amenities": ["WiFi", "Kitchen", "Ocean View"],
+      "image": "src/assets/property-images/nyc1.jpg"
+  },
+  {
+      "id": 18,
+      "title": "Romantic Canal House",
+      "description": "Experience romance in this charming canal house with traditional Venetian architecture.",
+      "price": 280,
+      "location": "Venice, Italy",
+      "amenities": ["WiFi", "Kitchen", "Gondola Ride"],
+      "image": "src/assets/property-images/london1.jpg"
+  },
+  {
+      "id": 19,
+      "title": "Modern Loft in Venice",
+      "description": "Immerse yourself in modern luxury in this stylish loft overlooking the Venetian canals.",
+      "price": 400,
+      "location": "Venice, Italy",
+      "amenities": ["WiFi", "Kitchen", "Terrace"],
+      "image": "src/assets/property-images/london3.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Riverside Retreat in London",
+        "description": "Relax and unwind in this riverside retreat offering stunning views of the Thames.",
+        "price": 320,
+        "location": "London, UK",
+        "amenities": ["WiFi", "Kitchen", "River Access"],
+        "image": "src/assets/property-images/mumbai1.jpg"
+      },
+    {
+        "id": 21,
+        "title": "Luxury Penthouse in Soho",
+        "description": "Live the high life in this luxurious penthouse located in the vibrant neighborhood of Soho.",
+        "price": 700,
+        "location": "New York, NY",
+        "amenities": ["WiFi", "Kitchen", "Private Elevator"],
+        "image": "src/assets/property-images/delhi3.jpg"
+      },
+    {
+        "id": 22,
+        "title": "Charming Studio in Montmartre",
+        "description": "Experience the artistic ambiance of Montmartre in this charming studio apartment.",
+        "price": 180,
+        "location": "Paris, France",
+        "amenities": ["WiFi", "Kitchen", "Art Studio"],
+        "image": "src/assets/property-images/nyc1.jpg"
+      },
+    {
+        "id": 23,
+        "title": "Serenity Villa in Delhi",
+        "description": "Find peace and serenity in this exquisite villa surrounded by lush gardens.",
+        "price": 350,
+        "location": "Delhi, India",
+        "amenities": ["WiFi", "Kitchen", "Yoga Studio"],
+        "image": "src/assets/property-images/property1.jpg"
+      },
+    {
+        "id": 24,
+        "title": "Cozy Cottage in Mumbai",
+        "description": "Escape to the countryside in this cozy cottage tucked away in the outskirts of Mumbai.",
+        "price": 200,
+        "location": "Mumbai, India",
+        "amenities": ["WiFi", "Kitchen", "Fire Pit"],
+       
+
+ "image": "src/assets/property-images/cabin1.jpg"
+      },
+    {
+        "id": 25,
+        "title": "Canal View Apartment in Venice",
+        "description": "Wake up to breathtaking canal views in this elegant apartment in Venice.",
+        "price": 380,
+        "location": "Venice, Italy",
+        "amenities": ["WiFi", "Kitchen", "Boat Dock"],
+        "image": "src/assets/property-images/london3.jpg"
+      }
+]
