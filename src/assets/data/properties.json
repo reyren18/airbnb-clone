@@ -7,7 +7,7 @@
       "price": 150,
       "location": "Big Bear Lake, CA",
       "amenities": ["WiFi", "Kitchen", "Fireplace"],
-      "image": "src/assets/property-images/cabin1.jpg"
+      "image": "/cabin1.jpg"
   },
   {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": 220,
       "location": "Downtown Los Angeles, CA",
       "amenities": ["WiFi", "Kitchen", "Balcony"],
-      "image": "src/assets/property-images/london1.jpg"
+      "image": "/london1.jpg"
   },
   {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": 300,
       "location": "Malibu, CA",
       "amenities": ["WiFi", "Kitchen", "Private Beach"],
-      "image": "src/assets/property-images/cabin1.jpg"
+      "image": "/cabin1.jpg"
   },
   {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": 400,
       "location": "London, UK",
       "amenities": ["WiFi", "Kitchen", "Gym"],
-      "image": "src/assets/property-images/delhi1.jpg"
+      "image": "/delhi1.jpg"
   },
   {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": 300,
       "location": "London, UK",
       "amenities": ["WiFi", "Kitchen", "Courtyard"],
-      "image": "src/assets/property-images/delhi3.jpg"
+      "image": "/delhi3.jpg"
   },
   {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": 600,
       "location": "London, UK",
       "amenities": ["WiFi", "Kitchen", "Jacuzzi"],
-      "image": "src/assets/property-images/property1.jpg"
+      "image": "/property1.jpg"
   },
   {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": 350,
       "location": "New York, NY",
       "amenities": ["WiFi", "Kitchen", "Roof Deck"],
-      "image": "src/assets/property-images/nyc1.jpg"
+      "image": "/nyc1.jpg"
   },
   {
       "id": 8,
@@ -70,7 +70,7 @@
       "price": 250,
       "location": "New York, NY",
       "amenities": ["WiFi", "Kitchen", "Fitness Center"],
-      "image": "src/assets/property-images/mumbai1.jpg"
+      "image": "/mumbai1.jpg"
   },
   {
       "id": 9,
@@ -79,7 +79,7 @@
       "price": 180,
       "location": "New York, NY",
       "amenities": ["WiFi", "Kitchen", "Garden"],
-      "image": "src/assets/property-images/mumbai3.jpg"
+      "image": "/mumbai3.jpg"
   },
   {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": 280,
       "location": "Paris, France",
       "amenities": ["WiFi", "Kitchen", "Bike Rental"],
-      "image": "src/assets/property-images/london3.jpg"
+      "image": "/london3.jpg"
   },
   {
       "id": 11,
@@ -97,7 +97,7 @@
       "price": 200,
       "location": "Paris, France",
       "amenities": ["WiFi", "Kitchen", "Library"],
-      "image": "src/assets/property-images/london1.jpg"
+      "image": "/london1.jpg"
   },
   {
       "id": 12,
@@ -106,7 +106,7 @@
       "price": 320,
       "location": "Paris, France",
       "amenities": ["WiFi", "Kitchen", "River Access"],
-      "image": "src/assets/property-images/cabin1.jpg"
+      "image": "/cabin1.jpg"
   },
   {
       "id": 13,
@@ -115,7 +115,7 @@
       "price": 120,
       "location": "Delhi, India",
       "amenities": ["WiFi", "Kitchen", "Traditional Decor"],
-      "image": "src/assets/property-images/delhi1.jpg"
+      "image": "/delhi1.jpg"
   },
   {
       "id": 14,
@@ -124,7 +124,7 @@
       "price": 180,
       "location": "Delhi, India",
       "amenities": ["WiFi", "Kitchen", "Garden"],
-      "image": "src/assets/property-images/delhi3.jpg"
+      "image": "/delhi3.jpg"
   },
   {
       "id": 15,
@@ -133,7 +133,7 @@
       "price": 500,
       "location": "Mumbai, India",
       "amenities": ["WiFi", "Kitchen", "Private Pool"],
-      "image": "src/assets/property-images/mumbai3.jpg"
+      "image": "/mumbai3.jpg"
   },
   {
       "id": 16,
@@ -142,7 +142,7 @@
       "price": 250,
       "location": "Mumbai, India",
       "amenities": ["WiFi", "Kitchen", "Ocean View"],
-      "image": "src/assets/property-images/nyc1.jpg"
+      "image": "/nyc1.jpg"
   },
   {
       "id": 18,
@@ -151,7 +151,7 @@
       "price": 280,
       "location": "Venice, Italy",
       "amenities": ["WiFi", "Kitchen", "Gondola Ride"],
-      "image": "src/assets/property-images/london1.jpg"
+      "image": "/london1.jpg"
   },
   {
       "id": 19,
@@ -160,7 +160,7 @@
       "price": 400,
       "location": "Venice, Italy",
       "amenities": ["WiFi", "Kitchen", "Terrace"],
-      "image": "src/assets/property-images/london3.jpg"
+      "image": "/london3.jpg"
     },
     {
         "id": 20,
@@ -169,7 +169,7 @@
         "price": 320,
         "location": "London, UK",
         "amenities": ["WiFi", "Kitchen", "River Access"],
-        "image": "src/assets/property-images/mumbai1.jpg"
+        "image": "/mumbai1.jpg"
       },
     {
         "id": 21,
@@ -178,7 +178,7 @@
         "price": 700,
         "location": "New York, NY",
         "amenities": ["WiFi", "Kitchen", "Private Elevator"],
-        "image": "src/assets/property-images/delhi3.jpg"
+        "image": "/delhi3.jpg"
       },
     {
         "id": 22,
@@ -187,7 +187,7 @@
         "price": 180,
         "location": "Paris, France",
         "amenities": ["WiFi", "Kitchen", "Art Studio"],
-        "image": "src/assets/property-images/nyc1.jpg"
+        "image": "/nyc1.jpg"
       },
     {
         "id": 23,
@@ -196,7 +196,7 @@
         "price": 350,
         "location": "Delhi, India",
         "amenities": ["WiFi", "Kitchen", "Yoga Studio"],
-        "image": "src/assets/property-images/property1.jpg"
+        "image": "/property1.jpg"
       },
     {
         "id": 24,
@@ -207,7 +207,7 @@
         "amenities": ["WiFi", "Kitchen", "Fire Pit"],
        
 
- "image": "src/assets/property-images/cabin1.jpg"
+ "image": "/cabin1.jpg"
       },
     {
         "id": 25,
@@ -216,6 +216,6 @@
         "price": 380,
         "location": "Venice, Italy",
         "amenities": ["WiFi", "Kitchen", "Boat Dock"],
-        "image": "src/assets/property-images/london3.jpg"
+        "image": "/london3.jpg"
       }
 ]
